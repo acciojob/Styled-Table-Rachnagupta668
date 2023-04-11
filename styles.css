@@ -1,1 +1,19 @@
-/* your code */
+.table{
+	  border:collapse;
+	
+}
+.head{
+	background:blue;
+}
+
+.row2{background:gray;
+	 }
+
+	 .row4{
+		 background:gray;
+	 }
+.table,td,th{
+	text-align:center;
+	 border-collapse:collapse;
+	
+}
